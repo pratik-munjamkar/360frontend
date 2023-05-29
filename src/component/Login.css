@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: 620px;
+  }
+  
+  .inner_container{
+    margin-top: 100px;
+    border: 2px solid black;
+    width: 350px;
+    height: 245px;
+    border-radius: 10px;
+    background-color: rgb(29, 69, 107);
+  }
+  
+  .box{
+    padding: 2px;
+  }
+  button,input{
+    padding: 4px;
+    border-radius: 5px;
+    font-size: medium;
+  }
+  
+  button{
+    border: none;
+  }
+  
+  p,h3{
+    color: white;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  a:hover{
+    color: coral;
+  }
+  
